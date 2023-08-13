@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Igor Vieira and I'm a Software Developer from Brazil. 
-<br /> I'm passionate about technology and discovering new things.</p>
+<br /> I'm passionate about technology, and discovering new things.</p>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h4 align="left">Libraries, Runtimes and Frameworks</h4>
+<h4 align="left">Libraries, Runtimes, and Frameworks</h4>
 
 ###
 
