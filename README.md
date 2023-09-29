@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating products since 2015<br>📚 Currently, I'm learning Rust 🦀<br>🥋 Practicing Jiu-Jitsu since 2011<br>🎲 I also run a channel on YouTube (https://www.youtube.com/@igor_vieira)</p>
+<p align="left">✨ Creating products since 2013<br>📚 Currently, I'm learning Rust 🦀<br>🥋 Practicing Jiu-Jitsu since 2011<br>🎲 I also run a channel on YouTube (https://www.youtube.com/@igor_vieira)</p>
 
 ###
 
